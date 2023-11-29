@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+audio {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    display: block;
+}
+
+#currentSong {
+    color: #555;
+}
+
+/* Add more styles as needed */
